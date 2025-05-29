@@ -1,0 +1,10 @@
+flask==2.0.1
+flask-cors==3.0.10
+flask-sqlalchemy==2.5.1
+SQLAlchemy==1.4.49
+transformers==4.30.2
+torch==2.0.1
+Pillow==9.5.0
+requests==2.31.0
+python-dotenv==1.0.0
+paddleocr==2.7.1.3 
