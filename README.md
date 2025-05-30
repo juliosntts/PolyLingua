@@ -110,18 +110,18 @@ npm start
 Abaixo estão algumas telas do sistema PolyLingua em funcionamento:
 
 ### Perfil do Usuário
-![Perfil do Usuário](../assets/perfil-usuario.jpg)
+![Perfil do Usuário](assets/perfil-usuario.jpg)
 *Gerencie suas configurações e preferências, como nome, email, idioma preferido, tema e detecção automática de idioma.*
 
 ### Histórico de Traduções
-![Histórico de Traduções](../assets/historico-traducoes.jpg)
+![Histórico de Traduções](assets/historico-traducoes.jpg)
 *Visualize o histórico de traduções realizadas, com data, texto original, tradução, idiomas e ações de gerenciamento.*
 
 ### Tradutor LibreTranslate
-![Tradutor LibreTranslate](../assets/tradutor-libretranslate.jpg)
+![Tradutor LibreTranslate](assets/tradutor-libretranslate.jpg)
 *Traduza textos entre diferentes idiomas usando o LibreTranslate, com detecção automática de idioma e exibição do resultado.*
 
-## 📹 Vídeo de Demonstração
+## 📹 Vídeo de Demonstração OCR
 
 [![Assista ao vídeo de demonstração](https://img.youtube.com/vi/CFTzCCOAssI/hqdefault.jpg)](https://youtu.be/CFTzCCOAssI)
 
